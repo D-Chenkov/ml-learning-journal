@@ -1,10 +1,10 @@
-# YYYY-MM-DD — [topic]
+# YYYY-MM-DD - [topic]
 
 **Learned:**
-- [bullet points — what actually stuck]
+- [bullet points - what actually stuck]
 
 **Confused by:**
-- [honest gaps — name at least one real gap even if it felt easy]
+- [honest gaps - name at least one real gap even if it felt easy]
 
 **Flashcard round score:** [~X/10 avg]. [strengths vs weak spots]
 
