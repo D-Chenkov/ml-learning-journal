@@ -6,6 +6,7 @@ My journey from QA Automation Engineer → ML Engineer.
 ## What's here
 - `entries/` — session-by-session learning logs
 - `flashcards/` — spaced-repetition card sources (Anki)
+- book reports
 
 ## Phase progress
 - [x] **Phase 1 — MLOps Foundations** (Docker, K8s, MLflow, CI/CD)
