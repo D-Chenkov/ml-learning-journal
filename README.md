@@ -10,7 +10,7 @@ My journey from QA Automation Engineer → ML Engineer.
 
 ## Phase progress
 - [x] **Phase 1 — MLOps Foundations** (Docker, K8s, MLflow, CI/CD)
-- [ ] Phase 2 — Production Serving + Deep Learning (FastAPI, PyTorch, DSP)
+- [x] Phase 2 — Production Serving + Deep Learning (FastAPI, PyTorch, DSP)
 - [ ] Phase 3 — LLMs, Agents & Monitoring (LangChain, LangGraph, Evidently)
 - [ ] Phase 4 — Portfolio, Certs & Applications
 
@@ -22,6 +22,6 @@ My journey from QA Automation Engineer → ML Engineer.
 5. [ ] ML observability platform (Evidently + Prometheus + Grafana)
 
 ## Certifications
-- [ ] Docker Foundations Professional (LinkedIn Learning)
+- [x] Docker Foundations Professional (LinkedIn Learning)
 - [ ] PyTorch for Deep Learning (Coursera)
 - [ ] GCP Professional ML Engineer
