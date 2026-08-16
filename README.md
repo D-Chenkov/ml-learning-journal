@@ -17,11 +17,11 @@ My journey from QA Automation Engineer → ML Engineer.
 ## Projects
 1. [x] End-to-end ML pipeline (Docker + MLflow + FastAPI + K8s)
 2. [ ] RAG document Q&A system (LangChain + FAISS)
-3. [ ] Biosignals anomaly detection (PyTorch + DSP)
+3. [x] Biosignals anomaly detection (PyTorch + DSP)
 4. [ ] AI financial intelligence agent (LangGraph + FinBERT)
 5. [ ] ML observability platform (Evidently + Prometheus + Grafana)
 
 ## Certifications
 - [x] Docker Foundations Professional (LinkedIn Learning)
-- [ ] PyTorch for Deep Learning (Coursera)
+- [x] PyTorch for Deep Learning (Coursera)
 - [ ] GCP Professional ML Engineer
