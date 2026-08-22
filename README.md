@@ -11,12 +11,12 @@ My journey from QA Automation Engineer → ML Engineer.
 ## Phase progress
 - [x] **Phase 1 — MLOps Foundations** (Docker, K8s, MLflow, CI/CD)
 - [x] Phase 2 — Production Serving + Deep Learning (FastAPI, PyTorch, DSP)
-- [ ] Phase 3 — LLMs, Agents & Monitoring (LangChain, LangGraph, Evidently)
+- [x] Phase 3 — LLMs, Agents & Monitoring (LangChain, LangGraph, Evidently)
 - [ ] Phase 4 — Portfolio, Certs & Applications
 
 ## Projects
 1. [x] End-to-end ML pipeline (Docker + MLflow + FastAPI + K8s)
-2. [ ] RAG document Q&A system (LangChain + FAISS)
+2. [x] RAG document Q&A system (LangChain + FAISS)
 3. [x] Biosignals anomaly detection (PyTorch + DSP)
 4. [ ] AI financial intelligence agent (LangGraph + FinBERT)
 5. [ ] ML observability platform (Evidently + Prometheus + Grafana)
