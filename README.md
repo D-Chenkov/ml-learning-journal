@@ -1,12 +1,11 @@
 # ML Engineering Learning Journal
 
 My journey from QA Automation Engineer → ML Engineer.
-**Target:** job-ready by Feb 28, 2027.
 
 ## What's here
 - `entries/` — session-by-session learning logs
 - `flashcards/` — spaced-repetition card sources (Anki)
-- book reports
+- book reports - Within Entries.
 
 ## Phase progress
 - [x] **Phase 1 — MLOps Foundations** (Docker, K8s, MLflow, CI/CD)
