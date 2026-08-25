@@ -1,6 +1,7 @@
 # ML Engineering Learning Journal
 
 My journey from QA Automation Engineer → ML Engineer.
+Day-by-day (mostly) Journal, Includes practice exercises, blog post reviews, projects and readings.
 
 ## What's here
 - `entries/` — session-by-session learning logs
