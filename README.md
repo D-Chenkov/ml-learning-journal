@@ -2,6 +2,7 @@
 
 My journey from QA Automation Engineer → ML Engineer.
 Day-by-day (mostly) Journal, Includes practice exercises, blog post reviews, projects and readings.
+Feel free to contact me about this and talk if you want to network!
 
 ## What's here
 - `entries/` — session-by-session learning logs
